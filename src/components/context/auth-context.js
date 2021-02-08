@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import Auth from "../Auth";
 
 export const AuthContext = React.createContext({
   isAuth: false,
